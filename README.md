@@ -1,6 +1,6 @@
-# ByteSeeker
+# ROGML
 
-ByteSeeker is a basic information extractor script designed for educational purposes.
+ROGML is a basic information extractor script designed for educational purposes.
 
 ## Features
 
@@ -14,8 +14,8 @@ ByteSeeker is a basic information extractor script designed for educational purp
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/XeinTDM/ByteSeeker
-   cd ByteSeeker
+   git clone https://github.com/XeinTDM/ROGML
+   cd ROGML
    ```
 2. Install the required Python packages:
    ```bash
@@ -44,10 +44,10 @@ Contributions are not accepted for this repository. However, you are free to for
 ## Disclaimer
 Use this script responsibly and ethically. This script is designed for educational and research purposes only. Unauthorized use of this script to collect information from systems without proper consent is illegal and unethical. Ensure you have explicit permission from the system owner or administrator before running this script.
 
-The authors of ByteSeeker do not condone or support any malicious activities and are not responsible for any misuse or damage caused by this script. The user assumes all responsibility for compliance with applicable local, state, federal, and international laws. By using this script, you agree to use it solely for lawful purposes and acknowledge that any unauthorized use could result in severe civil and criminal penalties.
+The authors of ROGML do not condone or support any malicious activities and are not responsible for any misuse or damage caused by this script. The user assumes all responsibility for compliance with applicable local, state, federal, and international laws. By using this script, you agree to use it solely for lawful purposes and acknowledge that any unauthorized use could result in severe civil and criminal penalties.
 
 This script does not store, share, or transmit any collected information to third parties without user consent. It is the user's responsibility to handle all collected data securely and in accordance with relevant privacy and data protection regulations.
 
-The ByteSeeker project and its contributors disclaim any liability for any direct, indirect, incidental, special, exemplary, or consequential damages arising from the use of this script or any actions taken based on the information provided. This includes, but is not limited to, data loss, system damage, or any other potential issues that may arise from the misuse of the script.
+The ROGML project and its contributors disclaim any liability for any direct, indirect, incidental, special, exemplary, or consequential damages arising from the use of this script or any actions taken based on the information provided. This includes, but is not limited to, data loss, system damage, or any other potential issues that may arise from the misuse of the script.
 
-If you are unsure about the legality or ethics of using this script, seek professional legal advice before proceeding. The authors and contributors reserve the right to modify or remove the script and its related content at any time without prior notice. By using ByteSeeker, you agree to this disclaimer in full.
+If you are unsure about the legality or ethics of using this script, seek professional legal advice before proceeding. The authors and contributors reserve the right to modify or remove the script and its related content at any time without prior notice. By using ROGML, you agree to this disclaimer in full.
